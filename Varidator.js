@@ -114,4 +114,3 @@ Validator.isPhone = function(selector) {
     }
 }
 
-console.log()
